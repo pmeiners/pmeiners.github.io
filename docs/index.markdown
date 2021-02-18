@@ -3,9 +3,14 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-list_title: ' '
+list_title: 'Blog'
 ---
-**Site under construction** 
+*Site under construction*
+
+# About
 
 
 I am a Ph.D. student working on the intersection of political psychology and international relations. This site contains information about my recent work and (in the future) some blog posts with underdeveloped thoughts.
+
+
+<br/><br/>
