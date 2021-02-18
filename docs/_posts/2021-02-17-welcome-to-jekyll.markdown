@@ -1,29 +1,35 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "First Post"
 date:   2021-02-17 23:58:21 +0100
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+So I've finally created my own website, and you've decided to read this post. 
 
-`YEAR-MONTH-DAY-title.MARKUP`
+## Jekyll
+This website is built with jekyll, and it is (obviously) hosted on github pages. Why jekyll?
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+The installation of jekyll is not that straightforward, unfortunately. The documentation for installing jekyll on MacOS is in some places outdated, which means that you'll have to scour the web and find your own method. Creating a site with RMarkdown through Hugo might be more straightforward.
 
-Jekyll also offers powerful support for code snippets:
+However, the base jekyll website you see here is surprisingly simple to edit. Instead of going through several layers of RStudio, YAML, etc., you can just edit posts in good old non-fancy markdown.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+It is also much more lightweight than hosting your own WordPress instance and having to deal with theme updates that break your site. 
+In comparison to WordPress, you can export to other services if Github Pages disappears in the future.
+
+## Content
+
+I do not plan to update the blog part of this site too frequently. I have some ideas for toy empirical examples. Overall, the content will probably be similar to a long twitter thread.
+
+Luckily, you can also include code snippets in your post:
+
+{% highlight r %}
+library (tidyverse)
+data_all <- coast_vs_waste %>% 
+  left_join(mismanaged_vs_gdp, by = c("Code", "Year")) %>%
+  left_join(waste_vs_gdp, by = c("Code", "Year"))
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+So expect some R code.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+
