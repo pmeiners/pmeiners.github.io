@@ -16,4 +16,3 @@ My research focuses on attitudes towards institutionalized forms of internationa
 I received my MA in Comparative Politics from the University of Freiburg and Sciences Po Aix in 2018. 
 
 
-<br/><br/>
