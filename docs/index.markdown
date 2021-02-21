@@ -2,8 +2,8 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
-list_title: 'Landing Page'
+layout: home
+list_title: 'Recent Posts'
 ---
 *Site under construction*
 
@@ -15,4 +15,4 @@ My research focuses on attitudes towards institutionalized forms of internationa
 
 I received my MA in Comparative Politics from the University of Freiburg and Sciences Po Aix in 2018. 
 
-
+<br/><br/>
