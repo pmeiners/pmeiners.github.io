@@ -38,9 +38,12 @@ minima:
   skin: solarized
 
 # Build settings
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
+  
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
