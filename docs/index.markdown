@@ -10,10 +10,7 @@ list_title: 'Landing Page'
 ## About
 
 
-I’m a Ph.D. candidate in political science at the University of Münster.
-My research focuses on attitudes towards institutionalized forms of international cooperation.
-
-I received my MA in Comparative Politics from the University of Freiburg and Sciences Po Aix in 2018. 
+I am a Ph.D. student working on the intersection of political psychology and international relations. 
 
 
 <br/><br/>
