@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: /about/
+permalink: /cv/
 ---
 
 Click [here](/assets/CVeng.pdf) to download my academic CV.
