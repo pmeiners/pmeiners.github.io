@@ -4,4 +4,4 @@ title: CV
 permalink: /about/
 ---
 
-[Academic CV (english)](/assets/CVeng.pdf) 
+Click [here](/assets/CVeng.pdf) to download my academic CV.
