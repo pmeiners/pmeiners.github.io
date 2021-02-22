@@ -15,7 +15,7 @@ My research focuses on attitudes towards institutionalized forms of internationa
 
 <br/>
 
-You can contact me at: [meiners.pa at gmail.com ](mailto:meiners.pa@gmail.com) 
+You can contact me at: [meiners.pa@gmail.com ](mailto:meiners.pa@gmail.com) 
 
 
  or find me on [Twitter](https://twitter.com/pa_meiners)  
