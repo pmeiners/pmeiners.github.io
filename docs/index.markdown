@@ -8,8 +8,10 @@ list_title: 'Recent Posts'
 ---
 *Site under construction*
 
+![image](/assets/websitesmall@0.5x.jpg){: style="float: right;" height="40%" width="40%"}
 
-I’m a Ph.D. candidate in political science at the University of Münster. I received my MA in Comparative Politics from the University of Freiburg and Sciences Po Aix in 2018. 
+
+I am a Ph.D. candidate in political science at the University of Münster. I received my MA in Comparative Politics from the University of Freiburg and Sciences Po Aix in 2018. 
 
 My research focuses on attitudes towards institutionalized forms of international cooperation. I mainly use experimental methods to investigate the psychological mechanisms behind political behavior.
 
