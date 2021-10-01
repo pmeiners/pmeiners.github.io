@@ -8,7 +8,7 @@ list_title: 'Recent Posts'
 ---
 *Site under construction*
 
-![image](/assets/websitesmall@0.5x.jpg){: style="float: right;" height="40%" width="40%"}
+![image](/assets/websitesmall@0.5x.jpg){: style="float: right;" ; margin-right: 10em; height="40%" width="40%"}
 
 
 I am a Ph.D. candidate in political science at the University of Münster. I received my MA in Comparative Politics from the University of Freiburg and Sciences Po Aix in 2018. 
