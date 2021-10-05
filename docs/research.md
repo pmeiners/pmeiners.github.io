@@ -8,6 +8,7 @@ permalink: /research/
 Some projects I am currently working on:
 
 **Consequences of complex communication by the European Commission**
+
 The European Union is not only the supranational institution with the most influence on national politics but also one of the most publicly criticized. Faced with this increasing pressure, the EU needs to legitimize its’ actions to the general public. However, one crucial barrier to these attempts is the inherent difficulty of communicating the often highly technical decisions of the European Commission. As a result, communication attempts of the European Commission are exceedingly complex. What are the effects of this complex messaging on attitudes towards decisions of the European Commission? In a preregistered survey experiment (N=1200) I expose respondents to messages by the European Commission in both the original version and in a less complex, but otherwise equivalent version. The results show that infringement procedures against Germany instigated by the European Commission are more likely to be accepted by german citizens when they are communicated in easy to understand language. Investigating the mechanisms behind that effect, I find that easier messaging is particularly effective for supporters of the European Union and for those interested in politics. 
 
 **Information and Motivation: How do attitudes towards International Organizations deveop?**
