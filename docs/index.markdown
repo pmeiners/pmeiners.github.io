@@ -6,7 +6,6 @@ layout: page
 title: 'About'
 list_title: 'Recent Posts'
 ---
-*Site under construction*
 
 ![image](/assets/websitesmall@0.5x.jpg){: style="float: right; padding: 10px;"  height="40%" width="40%"}
 
