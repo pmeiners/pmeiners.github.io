@@ -19,6 +19,6 @@ To explain the recent public contestation of International Organizations (IOs), 
 
 What effects do international crises have on the public legitimacy of International Organizations (IOs)? It might be the case that such crises make issue-relevant IOs more relevant. As a result, the public legitimacy of those IOs becomes more dependent on citizens’ crisis-induced worries, leading to a more positive view of those IOs. Additionally, as the higher salience also leads to higher levels of elite communication regarding IOs, elite blaming of the IOs during crises results in direct negative effects on public legitimacy beliefs on IOs. Finally, both the valence and content of the elite discourse additionally moderate the positive effects of crisis-induced worries. Implementing survey experiments on public legitimacy beliefs on the WHO during the COVID-19 crisis with about 4400 respondents in Austria, Germany and Turkey, we find preliminary evidence for these expectations
 
-
+Published in: The Review of International Organizations ([Paper](https://link.springer.com/article/10.1007/s11558-021-09452-y))
 
 
