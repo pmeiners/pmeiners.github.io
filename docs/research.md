@@ -10,6 +10,7 @@ Some projects I am currently working on:
 **Consequences of complex communication by the European Commission**
 
 The European Union is the supranational institution with the most influence on national politics and one of the most publicly criticized. Faced with this increasing pressure, the EU needs to legitimize its’ actions to the general public. However, one crucial barrier to these attempts is the inherent difficulty of communicating the often highly technical decisions of the European Commission. As a result, communication attempts of the European Commission are exceedingly complex. What are the effects of this complex messaging on attitudes towards decisions of the European Commission? In a preregistered survey experiment (N=1200), I expose respondents to messages by the European Commission in both the original version and in a less complex but otherwise equivalent version. The results show that infringement procedures against Germany instigated by the European Commission are more likely to be accepted by german citizens when they are communicated in easy-to-understand language. Investigating the mechanisms behind that effect, I find that easier messaging is particularly effective for supporters of the European Union and for those interested in politics. 
+[Working Paper](/assets/WorkingPaperEC.pdf)
 
 **Information and Motivation: How do attitudes towards International Organizations develop?**
 
@@ -21,4 +22,6 @@ What effects do international crises have on the public legitimacy of Internatio
 
 Published in: The Review of International Organizations ([Paper](https://link.springer.com/article/10.1007/s11558-021-09452-y))
 
+**Trust in the UN: The case of the Global Compact for Migration**
+The Global Compact for Migration has been one of the most hotly debated UN agreements in recent years. Despite being a non-binding agreement, it generated strong opposition both from some governments (such as the United States and Hungary) and from domestic actors (right-wing parties in European democracies). A key argument from opponents of the GCM was the perceived reduction of national sovereignty caused by the agreement. Using the timing of interviews as a quasi-randomization strategy, I demonstrate that the discussions around the agreement had a negative effect on trust towards the UN in Germany. This effect is not present among respondents opposed to migration, indicating that the failure to find an agreement on international rules for safe migration led to disappointment in the UN. In a similar vein, in a representative survey experiment in Germany, I show that a binding GCM would have led to *increased* support. Together, my results indicate that increasing international authority can lead to higher trust in IOs.
 
