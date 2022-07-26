@@ -4,9 +4,26 @@ title: "Research"
 permalink: /research/
 ---
 
+## Publications
 
-Some projects I am currently working on:
-<br/>
+**Salience Matters: Crisis affectedness, elite cues and IO public legitimacy (with Bernd Schlipphak & Osman Sabri Kiratli)**
+Published in: The Review of International Organizations ([Paper](https://link.springer.com/article/10.1007/s11558-021-09452-y))
+<details>
+<summary>More</summary>
+What effects do international crises have on the public legitimacy of International Organizations (IOs)? It might be the case that such crises make issue-relevant IOs more relevant. As a result, the public legitimacy of those IOs becomes more dependent on citizens’ crisis-induced worries, leading to a more positive view of those IOs. Additionally, as the higher salience also leads to higher levels of elite communication regarding IOs, elite blaming of the IOs during crises results in direct negative effects on public legitimacy beliefs on IOs. Finally, both the valence and content of the elite discourse additionally moderate the positive effects of crisis-induced worries. Implementing survey experiments on public legitimacy beliefs on the WHO during the COVID-19 crisis with about 4400 respondents in Austria, Germany and Turkey, we find preliminary evidence for these expectations
+</details>
+<br/><br/>
+
+**When are governmental blaming strategies effective? How blame, source and trust effects shape citizens’ acceptance of EU sanctions against democratic backsliding (with Bernd Schlipphak, Oliver Treib & Constantin Schäfer)**
+Published in: Journal of European Public Policy ([Paper](https://www.tandfonline.com/doi/full/10.1080/13501763.2022.2102671))
+<details>
+<summary>More</summary>
+Under what conditions do citizens consider external sanctions against their country to be appropriate? Based on the literature on blame shifting, we argue that citizens should become less likely to support external sanctions if their government defends itself, especially if it seeks to shift the blame to the external actors (blame effect). However, this effect may be moderated by which actor identifies and claims the norm violation (source effect) and by whether citizens trust their government (trust effect). We test our expectations by conducting a survey experiment on EU sanctions against democratic backsliding in six countries (n = 12,000). Our results corroborate the blame and source effects, but disconfirm the trust effect. These findings have important implications for the literatures on blame shifting and external sanctions as well as for how the EU and other International Organizations should design their sanctioning mechanisms.
+</details>
+<br/><br/>
+
+
+## Work in Progress
 
 **Consequences of complex communication by the European Commission**
 [Working Paper](/assets/WorkingPaperEC.pdf)
@@ -22,23 +39,6 @@ The European Union is the supranational institution with the most influence on n
 <details>
 <summary>More</summary>
 To explain the recent public contestation of International Organizations (IOs), researchers have often looked for micro-level explanations. Research has demonstrated that various factors influence attitudes towards IOs, ranging from characteristics of IOs themselves and the consequences of IO activity to contestation by political elites. However, citizens have very little ability or motivation to engage with information about these abstract issues. Instead, they might rely more on simple heuristics and rely on feelings of generalized trust or perceived familiarity of an institution. I argue that the effects of the proposed explanatory factors are conditional on individual psychological characteristics. I conducted a factorial survey experiment using a large sample of the German population (N=958), exposing participants to multiple fictitious IOs, their basic features, and domestic political elites’ reactions. Contrary to previous work on the effect of high international authority on individual attitudes, I find that German citizens do respond to information about international authority even in the presence of strong party cues. Moreover, these effects are more substantial for respondents motivated to engage in reflective reasoning. The results suggest that citizens can hold differentiated beliefs about IOs and do not always fall back on heuristic shortcuts.
-</details>
-
-<br/><br/>
-
-**Salience Matters: Crisis affectedness, elite cues and IO public legitimacy (with Bernd Schlipphak & Osman Sabri Kiratli)**
-Published in: The Review of International Organizations ([Paper](https://link.springer.com/article/10.1007/s11558-021-09452-y))
-<details>
-<summary>More</summary>
-What effects do international crises have on the public legitimacy of International Organizations (IOs)? It might be the case that such crises make issue-relevant IOs more relevant. As a result, the public legitimacy of those IOs becomes more dependent on citizens’ crisis-induced worries, leading to a more positive view of those IOs. Additionally, as the higher salience also leads to higher levels of elite communication regarding IOs, elite blaming of the IOs during crises results in direct negative effects on public legitimacy beliefs on IOs. Finally, both the valence and content of the elite discourse additionally moderate the positive effects of crisis-induced worries. Implementing survey experiments on public legitimacy beliefs on the WHO during the COVID-19 crisis with about 4400 respondents in Austria, Germany and Turkey, we find preliminary evidence for these expectations
-</details>
-<br/><br/>
-
-**When are governmental blaming strategies effective? How blame, source and trust effects shape citizens’ acceptance of EU sanctions against democratic backsliding (with Bernd Schlipphak, Oliver Treib & Constantin Schäfer)**
-Published in: Journal of European Public Policy ([Paper](https://www.tandfonline.com/doi/full/10.1080/13501763.2022.2102671))
-<details>
-<summary>More</summary>
-Under what conditions do citizens consider external sanctions against their country to be appropriate? Based on the literature on blame shifting, we argue that citizens should become less likely to support external sanctions if their government defends itself, especially if it seeks to shift the blame to the external actors (blame effect). However, this effect may be moderated by which actor identifies and claims the norm violation (source effect) and by whether citizens trust their government (trust effect). We test our expectations by conducting a survey experiment on EU sanctions against democratic backsliding in six countries (n = 12,000). Our results corroborate the blame and source effects, but disconfirm the trust effect. These findings have important implications for the literatures on blame shifting and external sanctions as well as for how the EU and other International Organizations should design their sanctioning mechanisms.
 </details>
 
 <br/><br/>
