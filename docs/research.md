@@ -32,6 +32,14 @@ Published in: The Review of International Organizations ([Paper](https://link.sp
 <summary>More</summary>
 What effects do international crises have on the public legitimacy of International Organizations (IOs)? It might be the case that such crises make issue-relevant IOs more relevant. As a result, the public legitimacy of those IOs becomes more dependent on citizens’ crisis-induced worries, leading to a more positive view of those IOs. Additionally, as the higher salience also leads to higher levels of elite communication regarding IOs, elite blaming of the IOs during crises results in direct negative effects on public legitimacy beliefs on IOs. Finally, both the valence and content of the elite discourse additionally moderate the positive effects of crisis-induced worries. Implementing survey experiments on public legitimacy beliefs on the WHO during the COVID-19 crisis with about 4400 respondents in Austria, Germany and Turkey, we find preliminary evidence for these expectations
 </details>
+<br/><br/>
+
+**When are governmental blaming strategies effective? How blame, source and trust effects shape citizens’ acceptance of EU sanctions against democratic backsliding (with Bernd Schlipphak, Oliver Treib & Constantin Schäfer)**
+Published in: Journal of European Public Policy ([Paper](https://www.tandfonline.com/doi/full/10.1080/13501763.2022.2102671))
+<details>
+<summary>More</summary>
+Under what conditions do citizens consider external sanctions against their country to be appropriate? Based on the literature on blame shifting, we argue that citizens should become less likely to support external sanctions if their government defends itself, especially if it seeks to shift the blame to the external actors (blame effect). However, this effect may be moderated by which actor identifies and claims the norm violation (source effect) and by whether citizens trust their government (trust effect). We test our expectations by conducting a survey experiment on EU sanctions against democratic backsliding in six countries (n = 12,000). Our results corroborate the blame and source effects, but disconfirm the trust effect. These findings have important implications for the literatures on blame shifting and external sanctions as well as for how the EU and other International Organizations should design their sanctioning mechanisms.
+</details>
 
 <br/><br/>
 
