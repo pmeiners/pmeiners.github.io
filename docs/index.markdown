@@ -7,7 +7,7 @@ title: 'About'
 list_title: 'Recent Posts'
 ---
 
-![image](/assets/websitesmall@0.5x.jpg){: style="float: right; padding: 10px;"  height="40%" width="40%"}
+![image](/assets/Headshot_Meiners.png){: style="float: right; padding: 10px;"  height="40%" width="40%"}
 
 
 I am a Ph.D. candidate in political science at the University of Münster. I received my MA in Comparative Politics from the University of Freiburg and Sciences Po Aix in 2018. 
