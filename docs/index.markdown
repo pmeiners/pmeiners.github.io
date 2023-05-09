@@ -9,10 +9,12 @@ list_title: 'Recent Posts'
 
 ![image](/assets/Headshot_Meiners.png){: style="float: right; padding: 10px;"  height="40%" width="40%"}
 
+I am a Postdoctoral Fellow at the department of sociology at the NTNU in Trondheim, Norway. 
+In 2023, I received my PhD from the University of Münster studying the conditions under which increasing competencies affect the social legitimacy of International Organizations. 
+              
+My research focuses on attitudes towards institutionalized forms of international cooperation.
+I mainly use experimental methods to investigate the psychological mechanisms behind political behavior.
 
-I am a Ph.D. candidate in political science at the University of Münster. I received my MA in Comparative Politics from the University of Freiburg and Sciences Po Aix in 2018. 
-
-My research focuses on attitudes towards institutionalized forms of international cooperation. I mainly use experimental methods to investigate the psychological mechanisms behind political behavior.
 
 <br/>
 
