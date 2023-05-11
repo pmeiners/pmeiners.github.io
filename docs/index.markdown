@@ -9,7 +9,7 @@ list_title: 'Recent Posts'
 
 ![image](/assets/Headshot_Meiners.png){: style="float: right; padding: 10px;"  height="40%" width="40%"}
 
-I am a Postdoctoral Fellow at the department of sociology at the NTNU in Trondheim, Norway. 
+I am a Postdoctoral Fellow at the department of sociology and political science at the NTNU in Trondheim, Norway. 
 In 2023, I received my PhD from the University of Münster studying the conditions under which increasing competencies affect the social legitimacy of International Organizations. 
               
 My research focuses on attitudes towards institutionalized forms of international cooperation.
