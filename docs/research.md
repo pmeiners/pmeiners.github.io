@@ -26,7 +26,6 @@ Under what conditions do citizens consider external sanctions against their coun
 ## Work in Progress
 
 **Consequences of complex communication by the European Commission**
-[Working Paper](/assets/WorkingPaperEC.pdf)
 <details>
 <summary>More</summary>
 
