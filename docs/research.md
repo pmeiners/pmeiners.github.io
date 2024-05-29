@@ -46,7 +46,7 @@ How do voters in liberal market economies perceive the growing geopolitical tens
 <br/><br/>
 
 
-**Consequences of complex communication by the European Commission**
+**Complex language and attitudes towards the European Union: Communicating European Commission Infringement Proceedings.**
 <details>
 <summary>More</summary>
 
@@ -55,7 +55,7 @@ The European Union is the supranational institution with the most influence on n
 
 <br/><br/>
 
-**Information and Motivation: How do attitudes towards International Organizations develop?**
+**When does the authority of International Organizations matter for social legitimacy? Experimental evidence from Germany.**
 <details>
 <summary>More</summary>
 To explain the recent public contestation of International Organizations (IOs), researchers have often looked for micro-level explanations. Research has demonstrated that various factors influence attitudes towards IOs, ranging from characteristics of IOs themselves and the consequences of IO activity to contestation by political elites. However, citizens have very little ability or motivation to engage with information about these abstract issues. Instead, they might rely more on simple heuristics and rely on feelings of generalized trust or perceived familiarity of an institution. I argue that the effects of the proposed explanatory factors are conditional on individual psychological characteristics. I conducted a factorial survey experiment using a large sample of the German population (N=958), exposing participants to multiple fictitious IOs, their basic features, and domestic political elites’ reactions. Contrary to previous work on the effect of high international authority on individual attitudes, I find that German citizens do respond to information about international authority even in the presence of strong party cues. Moreover, these effects are more substantial for respondents motivated to engage in reflective reasoning. The results suggest that citizens can hold differentiated beliefs about IOs and do not always fall back on heuristic shortcuts.
