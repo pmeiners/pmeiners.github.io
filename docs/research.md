@@ -45,6 +45,16 @@ How do voters in liberal market economies perceive the growing geopolitical tens
 
 <br/><br/>
 
+**Selective Compliance: Domestic Pressure and the Effectiveness of the International Criminal Court (with Marius Dotzauer)**
+<details>
+<summary>More</summary>
+
+Can international courts make a difference in world politics? The International Criminal Court (ICC) has the task of sentencing individuals who are responsible for gravest crimes, but its success depends on the cooperation of its member states. It is frequently argued that domestic constituencies shape states’ willingness to comply with international law. We investigate the case of international arrest warrants and develop a theory of selective domestic pressure to comply. We argue that political considerations influence citizens’ support for international law and whether they expect their government to com-ply with it. We will test these arguments using a survey experiment that resembles recent real-world events, in which we manipulate the individual against whom an international arrest warrant has been issued. We investigate whether citizens expect their government to execute the arrest warrant regardless of whether the person is from a country that is considered to be a close ally or an enemy of the country. If our theory of selective compliance pressure is correct, this would show that the impact of domestic constituencies to compel states accountable to international law is weaker than often assumed.  
+</details>
+
+
+<br/><br/>
+
 
 **Complex language and attitudes towards the European Union: Communicating European Commission Infringement Proceedings.**
 <details>
