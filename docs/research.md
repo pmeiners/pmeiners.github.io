@@ -8,6 +8,7 @@ permalink: /research/
 
 **The role of procedural fairness in EU legitimacy: Lessons from the Spitzenkandidaten process” (with Andreas C. Goldberg and Pieter de Wilde)**
 Forthcoming in: European Journal of Political Research.
+<br/><br/>
 
 **Enter the trade war? European public opinion on trade restrictions against China (with Marius Dotzauer)**
 Published in: The Review of International Political Economy([Paper](https://doi.org/10.1080/09692290.2026.2631763))
