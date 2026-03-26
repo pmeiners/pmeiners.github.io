@@ -6,11 +6,22 @@ permalink: /research/
 
 ## Publications
 
+**The role of procedural fairness in EU legitimacy: Lessons from the Spitzenkandidaten process” (with Andreas C. Goldberg and Pieter de Wilde)**
+Forthcoming in: European Journal of Political Research.
+
+**Enter the trade war? European public opinion on trade restrictions against China (with Marius Dotzauer)**
+Published in: The Review of International Political Economy([Paper](https://doi.org/10.1080/09692290.2026.2631763))
+<details>
+<summary>More</summary>
+This paper investigates how geopolitical factors shape individual preferences for export controls, focusing on EU–China trade in high-technology sectors. Supporters of a tougher stance toward China frequently use arguments about national security and economic containment. We examine how these arguments affect public opinion in European countries. We hypothesize that people display greater support for trade restrictions when the decision is motivated by security concerns rather than by the desire to slow China’s economic rise. We further argue that public support decreases if the economic costs of the decision are high. We test our theoretical expectations using a survey experiment with 8,770 respondents in five European countries: France, Germany, Italy, Poland, and Sweden. Only a third of respondents support trade restrictions overall. Contrary to our theoretical expectations, security and economic containment frames generate similar levels of support. Our findings further indicate that citizens’ support declines as the costs to their country increase. These results advance our understanding of how geopolitical considerations shape trade attitudes by demonstrating the interaction of material and geopolitical factors. They suggest that domestic constituencies in Europe are not overly concerned about China’s rise and do not endorse a strategy of economic coercion.
+</details>
+<br/><br/>
+
 **Salience Matters: Crisis affectedness, elite cues and IO public legitimacy (with Bernd Schlipphak & Osman Sabri Kiratli)**
 Published in: The Review of International Organizations ([Paper](https://link.springer.com/article/10.1007/s11558-021-09452-y))
 <details>
 <summary>More</summary>
-What effects do international crises have on the public legitimacy of International Organizations (IOs)? It might be the case that such crises make issue-relevant IOs more relevant. As a result, the public legitimacy of those IOs becomes more dependent on citizens’ crisis-induced worries, leading to a more positive view of those IOs. Additionally, as the higher salience also leads to higher levels of elite communication regarding IOs, elite blaming of the IOs during crises results in direct negative effects on public legitimacy beliefs on IOs. Finally, both the valence and content of the elite discourse additionally moderate the positive effects of crisis-induced worries. Implementing survey experiments on public legitimacy beliefs on the WHO during the COVID-19 crisis with about 4400 respondents in Austria, Germany and Turkey, we find preliminary evidence for these expectations
+What effects do international crises have on the public legitimacy of International Organizations (IOs)? It might be the case that such crises make issue-relevant IOs more relevant. As a result, the public legitimacy of those IOs becomes more dependent on citizens’ crisis-induced worries, leading to a more positive view of those IOs. Additionally, as the higher salience also leads to higher levels of elite communication regarding IOs, elite blaming of the IOs during crises results in direct negative effects on public legitimacy beliefs on IOs. Finally, both the valence and content of the elite discourse additionally moderate the positive effects of crisis-induced worries. Implementing survey experiments on public legitimacy beliefs on the WHO during the COVID-19 crisis with about 4400 respondents in Austria, Germany and Turkey, we find preliminary evidence for these expectations.
 </details>
 <br/><br/>
 
@@ -24,26 +35,6 @@ Under what conditions do citizens consider external sanctions against their coun
 
 
 ## Work in Progress
-
-
-**The Failed Promise of the Spitzenkandidaten System: How the EC President Selection Influences Citizens’ Satisfaction with EU Democracy (with Andreas Goldberg and Pieter De Wilde)**
-<details>
-<summary>More</summary>
-The European Union, and even more so the European Parliament (EP), is facing an ongoing institutional and political legitimacy challenge. In this context, the 2014 European elections marked a decisive step towards bringing the EU closer to its citizens by increasing the personalization of EU politics. Following the slogan ‘this time it’s different’, the idea was that the ‘winning’ lead candidate of the EP elections would become the new President of the European Commission (EC), the so-called Spitzenkandidaten process. While this expectation was fulfilled in 2014, the selection of von der Leyen as EC President after the 2019 EP elections neglected this process.
-In this paper, we first examine the extent to which this overruling of the Spitzenkandidaten system by the member states has affected people's satisfaction with the Spitzenkandidaten process and EU democracy more broadly. We take advantage of an `unexpected event during survey design' by using a panel wave data collection (from 10 EU member states) that was in the field when the (unexpected) selection of von der Leyen took place. Second, we examine how the (failed) Spitzenkandidaten process can be salvaged in order to increase citizens' satisfaction with EU democracy. We focus on two aspects, namely the earlier involvement of citizens through a primary system to select potential Spitzenkandidaten and the binding nature of the EP elections result to determine the EC President. To this end, we collect original experimental data (in 5 member states) in early 2024 in the run-up to the next EP elections. 
-
-</details>
-
-<br/><br/>
-
-**Cutting Ties in the Global Economy: European Public Opinion on Balancing Strategic Autonomy with Material Costs (with Marius Dotzauer)**
-<details>
-<summary>More</summary>
-
-How do voters in liberal market economies perceive the growing geopolitical tensions in the global economy? We argue that people face a dilemma between reducing critical dependencies from strategic competitors and avoiding material costs caused by geopolitical strategies. People might support their government’s decision to cut ties with a competing power, when prompted that independence from potentially hostile countries is important to advance strategic autonomy. Realizing that the desire of greater independence will produce significant costs might reduce peoples’ support for economic hard play. We examine these theoretical arguments in the context of the relationship between various European countries and China. We collect original observational survey data in five European countries and conduct survey experiments to test how people deal with the trade-offs between greater independence and its’ material repercussions, using trade in security-relevant high-tech products as an example. The paper contributes to a growing literature on geoeconomics by clarifying how domestic constituencies perceive ongoing efforts to reorganize global economic relations. 
-</details>
-
-<br/><br/>
 
 **Selective Compliance: Domestic Pressure and the Effectiveness of the International Criminal Court (with Marius Dotzauer)**
 <details>
