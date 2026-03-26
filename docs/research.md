@@ -8,6 +8,10 @@ permalink: /research/
 
 **The role of procedural fairness in EU legitimacy: Lessons from the Spitzenkandidaten process” (with Andreas C. Goldberg and Pieter de Wilde)**
 Forthcoming in: European Journal of Political Research.
+<details>
+<summary>More</summary>
+The European Union (EU) is facing an ongoing challenge to its institutional and political legitimacy. The 2014 European Parliament elections marked a decisive step towards bringing the EU closer to its citizens by increasing the personalization of EU politics. Under the slogan ‘this time it’s different’, the idea was that the ‘winning’ lead candidate (Spitzenkandidat) of the EP elections would become the new President of the European Commission (EC). However, the selection of von der Leyen as EC President after the 2019 EP elections neglected this process. Inspired by procedural fairness theory, we investigate the impact of the Spitzenkandidaten process on citizens’ satisfaction with democracy in the EU. In a first study, we use observational survey data to examine whether Europeans reacted negatively when the Spitzenkandidaten process was ignored in 2019. In a second study, we investigate how the Spitzenkandidaten process could be salvaged to increase citizens’ satisfaction with EU democracy. We focus on the involvement of citizens through a primary system to select potential Spitzenkandidaten and the binding nature of the results of the EP elections to determine the EC President. Our two studies show the low impact of the Spitzenkandidaten process: Member state governments are able to override the results of the Spitzenkandidaten process without having to fear a (large) public backlash. Increasing citizen participation through a European primary does not affect this conclusion. In summary, we find very little evidence for the relevance of procedural fairness for citizens’ evaluation of the EU and the Spitzenkandidaten process.
+</details>
 <br/><br/>
 
 **Enter the trade war? European public opinion on trade restrictions against China (with Marius Dotzauer)**
