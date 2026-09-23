@@ -45,7 +45,7 @@ Under what conditions do citizens consider external sanctions against their coun
 <details>
 <summary>More</summary>
 
-Can international courts make a difference in world politics? The International Criminal Court (ICC) has the task of sentencing individuals who are responsible for gravest crimes, but its success depends on the cooperation of its member states. It is frequently argued that domestic constituencies shape states’ willingness to comply with international law. We investigate the case of international arrest warrants and develop a theory of selective domestic pressure to comply. We argue that political considerations influence citizens’ support for international law and whether they expect their government to com-ply with it. We will test these arguments using a survey experiment that resembles recent real-world events, in which we manipulate the individual against whom an international arrest warrant has been issued. We investigate whether citizens expect their government to execute the arrest warrant regardless of whether the person is from a country that is considered to be a close ally or an enemy of the country. If our theory of selective compliance pressure is correct, this would show that the impact of domestic constituencies to compel states accountable to international law is weaker than often assumed.  
+Can international courts make a difference in world politics? The International Criminal Court (ICC) has the task of sentencing individuals who are responsible for gravest crimes, but its success depends on the cooperation of its member states. It is frequently argued that domestic constituencies shape states’ willingness to comply with international law. We investigate the case of international arrest warrants and develop a theory of selective domestic pressure to comply. We argue that political considerations influence citizens’ support for international law and whether they expect their government to com-ply with it. We test these arguments using a survey experiment that resembles recent real-world events, in which we manipulate the individual against whom an international arrest warrant has been issued. We investigate whether citizens expect their government to execute the arrest warrant regardless of whether the person is from a country that is considered to be a close ally or an enemy of the country. This shows that the power of domestic constituencies to hold states accountable to international law is weaker than often assumed.  
 </details>
 
 
@@ -68,12 +68,3 @@ To explain the recent public contestation of International Organizations (IOs), 
 </details>
 
 <br/><br/>
-
-**Trust in the UN: The case of the Global Compact for Migration**
-<details>
-<summary>More</summary>
-The Global Compact for Migration has been one of the most hotly debated UN agreements in recent years. Despite being a non-binding agreement, it generated strong opposition both from some governments (such as the United States and Hungary) and from domestic actors (right-wing parties in European democracies). A key argument from opponents of the GCM was the perceived reduction of national sovereignty caused by the agreement. Using the timing of interviews as a quasi-randomization strategy, I demonstrate that the discussions around the agreement had a negative effect on trust towards the UN in Germany. In order to understand, if the design of the agreement could have caused that shift, I conduct a representative survey experiment in Germany. I show that, suprisingly, a binding GCM could have led to *increased* support. Together, my results indicate that increasing international authority can lead to higher trust in IOs.
-</details>
-
-<br/><br/>
-
