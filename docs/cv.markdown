@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-Click [here](/assets/CVonline.pdf) to download my academic CV.
+Click [here](/assets/CV_online.pdf) to download my academic CV.
